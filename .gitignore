@@ -1,4 +1,4 @@
 #Ignore temporary files:
-CPLab\temp\
-CPLab\*.bat
+CPLab/temp/
+CPLab/*.bat
 .vscode
